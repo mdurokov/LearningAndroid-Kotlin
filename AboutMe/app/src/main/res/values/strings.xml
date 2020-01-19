@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="aaron_brick">Aaron Brick</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Pellentesque commodo erat ullamcorper velit porta blandit.
+    \n\nSed pharetra lorem justo, sit amet faucibus ex tincidunt vitae.
+    \nSed molestie, sapien in vulputate porttitor, orci libero pulvinar arcu,
+    \nvel bibendum nibh risus ac nulla. Pellentesque at dolor in tellus cursus maximus.
+    \n\nVestibulum luctus, ligula in luctus sollicitudin, tellus neque blandit erat,
+    et laoreet lectus ex quis velit. Nunc a nisi enim. In tincidunt metus a metus luctus,
+    \nquis blandit magna pellentesque. Sed interdum sem sapien, eget convallis leo sagittis non.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    </string>
+    <string name="what_s_yor_nickname">What\'s yor nickname</string>
+    <string name="done">Done</string>
+</resources>
